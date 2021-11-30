@@ -1,0 +1,35 @@
+C:\Users\emanu\Desktop\IHM1\IHM1\bin\Debug\IHM1.exe.config
+C:\Users\emanu\Desktop\IHM1\IHM1\bin\Debug\IHM1.exe
+C:\Users\emanu\Desktop\IHM1\IHM1\bin\Debug\IHM1.pdb
+C:\Users\emanu\Desktop\IHM1\IHM1\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.Form1.resources
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.Properties.Resources.resources
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.csproj.CopyComplete
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.exe
+C:\Users\emanu\Desktop\IHM1\IHM1\obj\Debug\IHM1.pdb
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\bin\Debug\IHM1.exe.config
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\bin\Debug\IHM1.exe
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\bin\Debug\IHM1.pdb
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.Form1.resources
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.Properties.Resources.resources
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.csproj.CopyComplete
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.exe
+C:\Users\emanu\Desktop\ARQUIVOS 23.09.21\IHM1\IHM1\obj\Debug\IHM1.pdb
+C:\Users\emanu\Desktop\IHM1a\IHM1\bin\Debug\IHM1.exe.config
+C:\Users\emanu\Desktop\IHM1a\IHM1\bin\Debug\IHM1.exe
+C:\Users\emanu\Desktop\IHM1a\IHM1\bin\Debug\IHM1.pdb
+C:\Users\emanu\Desktop\IHM1a\IHM1\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.Form1.resources
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.Properties.Resources.resources
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.csproj.CopyComplete
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.exe
+C:\Users\emanu\Desktop\IHM1a\IHM1\obj\Debug\IHM1.pdb

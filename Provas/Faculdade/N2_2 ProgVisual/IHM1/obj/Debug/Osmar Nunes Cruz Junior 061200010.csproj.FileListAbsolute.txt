@@ -1,0 +1,23 @@
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\IHM1.exe.config
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\IHM1.exe
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\IHM1.pdb
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.AssemblyReference.cache
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.Form1.resources
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.Properties.Resources.resources
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.GenerateResource.cache
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.CoreCompileInputs.cache
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.CopyComplete
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.exe
+C:\Users\osmar\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.pdb
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\IHM1.exe.config
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\IHM1.exe
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\bin\Debug\IHM1.pdb
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csprojAssemblyReference.cache
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.Form1.resources
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.Properties.Resources.resources
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.GenerateResource.cache
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.CoreCompileInputs.cache
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\Osmar Nunes Cruz Junior 061200010.csproj.CopyComplete
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.exe
+C:\Users\061200010\Desktop\Osmar Junior 061200010\IHM1\obj\Debug\IHM1.pdb
